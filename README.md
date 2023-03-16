@@ -1,1 +1,1 @@
-# Stock-Price-Analysis-Python
+# Python Data Analysis Projects
